@@ -44,3 +44,10 @@ Learning Git Branching
 
 - List unmerged commits
   `git branch --no-merged`
+
+  ### Bonus Command
+
+```code
+ <h1>  git log</h1>
+
+```
